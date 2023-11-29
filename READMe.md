@@ -1,6 +1,6 @@
 # Storage Size Checker
 
-This program allows you to check the storage size of a file.
+This program allows you to check the storage size of a file. Made this because I couldn't find something that already does this and I'm trying to make super super small programs, without the need to go out of visual studio code and use file explorer, and I couldn't be asked to actually google something for this.
 
 ## Usage
 
